@@ -1,4 +1,4 @@
-# StrokePrediction
+# Stroke prediction
 
 Supervised learning - predicting stroke with given dataset
 
